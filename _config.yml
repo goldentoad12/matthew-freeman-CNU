@@ -1,0 +1,11 @@
+title: Matthew's Blogs
+description: A Blog
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME

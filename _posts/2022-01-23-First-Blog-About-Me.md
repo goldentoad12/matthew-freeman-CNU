@@ -1,6 +1,6 @@
 # **The Life of Matthew Freeman**
 
-![Profile Picture](https://goldentoad12.github.io/matthew-freeman-CNU/blob/main/images/profile.jpg)
+![Profile Picture](/images/profile.png)
 *That's me!!*
 
 ## A Little About Me
@@ -9,7 +9,7 @@ My name is Matthew and I am currently a junior at CNU. I am pursing a bachelors 
 
 ## Career Goals
 
-![Career Picture](https://goldentoad12.github.io/matthew-freeman-CNU/blob/main/images/skull.jfif)
+![Career Picture](/images/skull.jfif)
 
 Im planning on completing my Bachelor's here come 2023 and start to fing work in my chosen career field. I would like to start working in a crime lab out west in order to get my foot into the door. After working there for a few years and getting a better idea for what is to come I would go back to school and start working towards my higher degrees. As previously stated, my end goal woud ultimately be to work as a forensic pathologist, preforming autopsies and other such matters.
 

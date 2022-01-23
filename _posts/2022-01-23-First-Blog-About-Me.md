@@ -11,8 +11,12 @@ My name is Matthew and I am currently a junior at CNU. I am pursing a bachelors 
 
 ![Career Picture](/images/skull.jfif)
 
-Im planning on completing my Bachelor's here come 2023 and start to fing work in my chosen career field. I would like to start working in a crime lab out west in order to get my foot into the door. After working there for a few years and getting a better idea for what is to come I would go back to school and start working towards my higher degrees. As previously stated, my end goal woud ultimately be to work as a forensic pathologist, preforming autopsies and other such matters.
+I'm planning on completing my Bachelor's here come 2023 and start to fing work in my chosen career field. I would like to start working in a crime lab out west in order to get my foot into the door. After working there for a few years and getting a better idea for what is to come I would go back to school and start working towards my higher degrees. As previously stated, my end goal woud ultimately be to work as a forensic pathologist, preforming autopsies and other such matters.
 
 ## Academic Success 🎓
 
 In school, I have always excelled. I graduated from highschool with an Advanced Diploma and an IB diploma. Following this, I attended [Thomas Nelson Community College](https://www.tncc.edu/) where I earned my Associates Degree in the social sciences.
+
+## Personal Tidbits
+
+I was born and raised in Newport News and currently live there. I did move to Chesapeake for highschool as my mom had remarried, but we moved back after I graduated high school. I have three animals, two cats and a dog. My cat's names are Whiskers and JJ; my dog's name is skye. 

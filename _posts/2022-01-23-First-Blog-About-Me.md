@@ -20,4 +20,4 @@ In school, I have always excelled. I graduated from highschool with an Advanced 
 ## Personal Tidbits
 
 I was born and raised in Newport News and currently live there. I did move to Chesapeake for highschool as my mom had remarried, but we moved back after I graduated high school. I have three animals, two cats and a dog. My cat's names are Whiskers and JJ; my dog's name is skye. In my past-time I love rollerskating, hanging out with my friends, and playing videogames. Currently, I'm playing the Pokemon remakes and am anxiously awaiting for the release of their new game in just a few days!
-![Career Picture](/images/skull.jpg)
+![Animal Pictures](

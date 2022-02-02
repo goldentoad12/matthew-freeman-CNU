@@ -9,7 +9,7 @@ Project URL: <https://witches.is.ed.ac.uk/>
 
 =============================
 
-[Presentation](##presentation) [Maps](###maps) [Filters](##filters) [User Accessibility](##user-accessibility)
+[Presentation](#presentation) [Maps](##maps) [Filters](#filters) [User Accessibility](#user-accessibility)
 
 # Review: *Witches*
 

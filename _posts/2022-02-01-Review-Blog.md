@@ -16,3 +16,7 @@ The map provided with the project give rise to other problems with accessibility
 
 Looking at the filters for the maps that the website provides, there is a glaring issue, the lack of searchability. The offering of different filters to narrow down the large group of individuals is helpful, but can still leave the user with a substantial amount of people to comb through. If there is a person that is wanting to be specifically searched for, their is no way to look for their name specifically and see where they are. Instead, everything must be known about this individual in order to elimanate as many people as possible to then start randomly searching for the specific individual wanted. With the large collection of recorded individuals present, this task becomes virtually impossible without having to sift through the whole map.
 
+### To Do
+-Page html elements do not have a language attribute (text to speech can't pronounce certain words correctly in other languages)
+-Some areas are color coordinated but don’t give an option on the website to change the colors (gives links to other websites that can change the computer's system colors)
+-Can’t be navigated solely through keyboard use

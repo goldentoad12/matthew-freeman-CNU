@@ -14,6 +14,8 @@ One glaring issue from its beginning comes with the self-identification of the w
 
 The map provided with the project give rise to other problems with accessibility and ease of viewing. The modern-day map provided does provide legible and distinct from the background; however, the same can't be said for the historical map provided. It is a topographical map, most likely from the late 1800s (not specifically specified), that has very muted colors for both the text and the background. The further you zoom in, the worse this problem gets as more lines begin to be put over the words. This causes the map to be illegible. With no options for better map overlays to make the writing visible, the historic map becomes unusable for giving any detail that the modern day map doesnt already give.
 
+![Filters](https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/main/images/filter.png)
+
 Looking at the filters for the maps that the website provides, there is a glaring issue, the lack of searchability. The offering of different filters to narrow down the large group of individuals is helpful, but can still leave the user with a substantial amount of people to comb through. If there is a person that is wanting to be specifically searched for, their is no way to look for their name specifically and see where they are. Instead, everything must be known about this individual in order to elimanate as many people as possible to then start randomly searching for the specific individual wanted. With the large collection of recorded individuals present, this task becomes virtually impossible without having to sift through the whole map.
 
 ### To Do

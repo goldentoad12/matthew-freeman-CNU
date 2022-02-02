@@ -16,4 +16,4 @@ One glaring issue from its beginning comes with the self-identification of the w
 
 PUT TOPOGRAPHICAL MAP PIC
 
-The map provided with the project give rise to other problems with accesibility and ease of viewing. The modern day map provided does provide legible and distinct from the background; however, the same can't be said for the historical map provided. It is a topographical map most likely from the late 1800s, (not specificaly specified)
+The map provided with the project give rise to other problems with accesibility and ease of viewing. The modern day map provided does provide legible and distinct from the background; however, the same can't be said for the historical map provided. It is a topographical map, most likely from the late 1800s (not specificaly specified), that has very muted colors for both thw text and the background. The further you zoom in, the worse this problem gets as more lines begin to be put over the words. This causes the map to be illedgebile. 

@@ -1,5 +1,5 @@
 ### Review Blog
-<img align="right" height="75" width="75" src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/main/images/witches.png">
+<img align="right" height="150" width="150" src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/main/images/witches.png">
 
 Project: Witches
 
@@ -9,7 +9,7 @@ Project URL: <https://witches.is.ed.ac.uk/>
 
 -----------------------------
 
-[Presentation](#presentation) | [Maps](#maps) | [Filters](#filters) | [User Accessibility](#user-accessibility)
+[Presentation](#presentation) [Maps](#maps) | [Filters](#filters) | [User Accessibility](#user-accessibility)
 
 # Review: *Witches*
 
@@ -21,7 +21,7 @@ One glaring issue from its beginning comes with the self-identification of the w
 
 ### Maps
 
-<img align="left" src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/ad6145aec3ece9f62cd79800993834c43ff7f727/images/22.png" width="300" height="150">
+<img align="left" src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/ad6145aec3ece9f62cd79800993834c43ff7f727/images/22.png" width="500" height="300">
 The map provided with the project give rise to other problems with accessibility and ease of viewing. The modern-day map provided does provide is legible and distinct from the background; however, the same can't be said for the historical map provided. It is a topographical map, most likely from the late 1800s (not specifically specified), that has very muted colors for both the text and the background. The further you zoom in, the worse this problem gets as more lines, for roads and boudaries, begin to be put over the words. This causes the map to be illegible. With no options for better map overlays to make the writing visible, the historic map becomes unusable for giving any detail not already provided by the modern day map. Having some overlay similar to the witches icons but for the names of important places and cities would be beneficial for easier navigation of historical map.
 
 In conjungtion with the coloration problem of the map, the site provides no easy way to chage color filtering for easier reading capabilities. To it's credit, the project provides external resources that can help allievate with color correction problems. However, having to download resources from outside resources faces its own set of problems. A great way to eliminate part of this issue would be to include something akin to a dark mode to allow for an easier experience for the viewer.

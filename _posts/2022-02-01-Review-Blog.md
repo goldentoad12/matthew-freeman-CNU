@@ -7,7 +7,7 @@ Project Director(s): Ewan McAndrews
 
 Project URL: <https://witches.is.ed.ac.uk/>
 
-[Presentation](##presentation)
+[Presentation](##presentation) [Maps](###maps) [Filters](##filters) [User Accessibility](##user-accessibility)
 
 # Review: *Witches*
 

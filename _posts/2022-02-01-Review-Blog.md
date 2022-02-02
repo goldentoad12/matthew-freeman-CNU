@@ -7,19 +7,19 @@ Project Director(s): Ewan McAndrews
 
 Project URL: <https://witches.is.ed.ac.uk/>
 
------------------------------
 
-[Presentation](#presentation) [Maps](#maps) | [Filters](#filters) | [User Accessibility](#user-accessibility)
+
+[Presentation](#presentation) | [Maps](#maps) | [Filters](#filters) | [User Accessibility](#user-accessibility)
 
 
 # Review: *Witches*
------------------------------
+
 
 Pulling from Survey of Scottish Witchcraft Database, *Witches* is an online interactive DH project that allows its viewers to explore the Scottish region and see where people were accused of being "witches" and some basic information of them. This project consisnt of a large map with icons of "witches" that can be clicked on to view basic information on these people. This site provides many different filters for interacting with these icons; ranging from economic class to the job these people had. To add further context, it provides both a modern and historical map to help and identify some places that may no longer be in existence. Many different accessibility options are included ranging from text resizing, voice commands, and keyboard controls.
 
 
 ## Presentation
-----------------------------
+
 
 One glaring issue from its beginning comes with the self-identification of the website. *Witches*, as the name implies, gives historical data and graphic representation on accused witches, with the drawback being that it doesn't explicitly specify the area in which the witches it presents are located. Seeing as people accused of witchcraft come from all over the world, when opening the page only a small section of the world map has the accused marked. It isn't until reaching the reference page that it becomes apparent that the project solely focuses on the people of Scotland. Given access to the entire world map and the non-specificity of the project's intentions, the work can initially be seen as underwhelming in its scope and not entirely completed. 
 
@@ -34,7 +34,7 @@ In conjungtion with the coloration problem of the map, the site provides no easy
 
 
 ## Filters
-------------------------
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/main/images/filter.png">
@@ -46,7 +46,7 @@ Continuing with the filters is the issue where they cannot be used in tandam wit
 
 
 ## User Accessibility
-----------------------------
+
 
 ### To Do
 - Page html elements do not have a language attribute (text to speech can't pronounce certain words correctly in other languages)

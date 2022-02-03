@@ -49,5 +49,5 @@ Continuing with the filters is the issue where they cannot be used in tandam wit
 - Can’t be navigated solely through keyboard use
 
 <p align="center">
-  <[Return to Top](#review-blog)>
+  [Return to Top](#review-blog)
     </p>

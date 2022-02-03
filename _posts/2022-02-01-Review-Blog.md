@@ -48,5 +48,4 @@ Continuing with the filters is the issue where they cannot be used in tandam wit
 - Page html elements do not have a language attribute (text to speech can't pronounce certain words correctly in other languages)
 - Can’t be navigated solely through keyboard use
 
-</p <align="center">
-[Return to Top](#review-blog)
+<br> <br> [Return to Top](#review-blog)

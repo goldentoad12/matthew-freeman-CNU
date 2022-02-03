@@ -8,11 +8,6 @@ Project Director(s): Ewan McAndrews
 
 Project URL: <https://witches.is.ed.ac.uk/>
 
-
-
-[Presentation](#presentation) | [Maps](#maps) | [Filters](#filters) | [User Accessibility](#user-accessibility)
-
-
 # Review: *Witches*
 
 
@@ -52,3 +47,7 @@ Continuing with the filters is the issue where they cannot be used in tandam wit
 ### To Do
 - Page html elements do not have a language attribute (text to speech can't pronounce certain words correctly in other languages)
 - Can’t be navigated solely through keyboard use
+
+<p align="center">
+  <[Return to Top](#review-blog)>
+    </p>

@@ -40,12 +40,6 @@ Looking at the filters for the maps that the website provides, there is a glarin
 
 Continuing with the filters is the issue where they cannot be used in tandem with one another. From a historical perspective, gender and social class had a large influence on the treatment and accusation of being a witch. Having the ability to only select one filter at a time limits the capabilities to easily search for the group of people that the viewer is specifically interested in.
 
-## User Accessibility
-
-This dh project works well in accommodating English speaking people with vision challenges; however, the same cannot be said for those who speak other languages. As stated in the accessibility tab, "Page html elements do not have a language attribute," meaning that certain sounds that aren't present in English but are common in other languages are not accommodated. This can make some foreign words sound incorrect or completely incomprehensible in other languages.
-
-Another minor issue that arises is that while keyboard controls are present, their integration with the map is not as solid as would be expected. Solely using the keyboard with no mouse, it was at times possible to be stuck on the map continuously scrolling when the filters were attempted to be reached or vice versa. Although this is a minor issue at best, for some viewers it has the potential to make the site unusable.
-
 ## Final Remarks
 
 *Witches* is a beautifully crafted dh project presenting an interesting and explorative way to discover the history of the witch trials and the people in which they affected. The site is not perfect and does have issues that need to be resolved in order to craft a better experience. However, despite this reality, it accomplishes what it wants to do in an exploratative and ingenuous way that helps to spread knowledge that people may have otherwise never learned.

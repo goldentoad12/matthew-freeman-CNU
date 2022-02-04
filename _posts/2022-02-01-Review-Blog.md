@@ -43,6 +43,6 @@ Continuing with the filters is the issue where they cannot be used in tandem wit
 
 ## Final Remarks
 
-*Witches* is a beautifully crafted dh project presenting an interesting and explorative way to discover the history of the witch trials and the people in which they affected. The site is not perfect and does have issues that need to be resolved in order to craft a better experience. However, despite this reality, it accomplishes what it wants to do in an exploratative and ingenuous way that helps to spread knowledge that people may have otherwise never learned.
+*Witches* is a beautifully crafted dh project presenting an interesting and explorative way to discover the history of the witch trials and the people in which they affected. The site is not perfect and does have issues that need to be resolved in order to craft a better experience. However, despite this reality, it accomplishes what it wants to do in an explorative and ingenuous way that helps to spread knowledge that people may have otherwise never learned.
 
 [Return to Top](#review-blog)

@@ -21,6 +21,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - Rakefile
+  - _scripts/
 
 theme: jekyll-theme-midnight
 

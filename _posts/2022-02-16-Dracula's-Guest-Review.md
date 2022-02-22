@@ -10,7 +10,7 @@ For this assignment, we were given a small section of the story, “Dracula’s 
 
 For me, oxygen only took me a single class to get everything completely marked up and formatted correctly. My section mostly consisted of using code such as ```<p> </p>``` to denote the beginning and ending of a paragraph. Also, I frequently had to use ```<note> </note>``` as my section consisted of quite a few of those.  When first compiling this code however, it didn’t immediately work. I had introduced some characters that made it fail as well as capitalized words that didn’t need it. This was an easy fix however and didn’t give me too many issues in the long run.
 
-<img align="left" height="200" width="300" src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/main/images/TEI.full2.png">
+<img align="left" height="250" width="400" src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/main/images/TEI.full2.png">
 
 When first going into this project, I found it to be very daunting. I had never done any sort of coding before and my only knowledge of it came from movies. I was initially overwhelmed as I believed myself to be incapable of learning it so quickly. After beginning however, my nerves calmed down. The coding process was straightforward and the way everything was indexed made sense to me. It follows a bullet point method, where instead of bullets you have things like title or body. This made it much easier to follow and learn.
 

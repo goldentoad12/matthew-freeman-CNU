@@ -12,7 +12,7 @@ In the beginning, I did find this definition to adequately describe what I belie
 
 Having looked at how my definition has changed; I feel as though I have a better understanding of this field. I understand that DH is different for everyone, but now I can see the common threads that tie most of them together.
 
-## What did I like to do
+## Assignments
 
 <img align="left" src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/main/images/twitter.jpg" width="225" height="325">
 
@@ -24,7 +24,7 @@ Another aspect of Twitter that I enjoyed was the access to opposing ideas that I
 
 <img align="right" src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/main/images/eye.png" width="250" height="325">
 
-I found the reading we were assigned to be helpful in being both a better writer and a better digital humanist. The reading that I most enjoyed learning about and eventually utilize was that of “Text Scanning Patterns: Eyetracking Evidence.” Most of what I have written has been on paper in an essay style format. Up until this class, I had never written anything to be online for everyone to see. Because of this, I had no idea that people’s reading habits change when something is on a screen. This article allowed me to be a better writer when on an online format as well as helped me to identify my flaws when reading something online. I feel as though this reading helped me in this class and will also help me in my future endeavors.
+I found the readings we were assigned to be helpful in developing my skills as a writer and digital humanist. The reading that I most enjoyed learning about and eventually utilize was that of “Text Scanning Patterns: Eyetracking Evidence.” Most of what I have written has been on paper in an essay style format. Up until this class, I had never written anything to be online for everyone to see. Because of this, I had no idea that people’s reading habits change when something is on a screen. This article allowed me to be a better writer when on an online format as well as helped me to identify my flaws when reading something online. I feel as though this reading helped me in this class and will also help me in my future endeavors.
 
 ## My Personal Growth
 

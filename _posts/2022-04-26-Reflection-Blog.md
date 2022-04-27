@@ -14,7 +14,7 @@ Having looked at how my definition has changed; I feel as though I have a better
 
 ## What did I like to do
 
-ADD PICTURE TWITTER LEFT SIDE
+<img align="left" src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/main/images/222.png" width="200" height="400">
 
 One of the aspects of this class that I really enjoyed was the utilization of Twitter. I will admit that for my personal life I am not one for being on social media or posting my ideas to a public forum for that matter. However, using twitter to express my thought or ideas on what we were doing in class was kind of helpful for me. As seen in this picture on the left, I had some concerns about our final grant project. But as I came to find out I wasn’t alone in this worry. My classmates commented and shared how they were struggling in similar manners. I am someone who can be very anxious at times, but this was comforting for me to see. Utilizing Twitter for this class made me feel as though I was part of a community wanting to learn, rather than being a student working towards a grade. 
 
@@ -22,7 +22,7 @@ Another aspect of Twitter that I enjoyed was the access to opposing ideas that I
 
 ## Readings
 
-EYE PICTURE RIGHT SIDE
+<img align="right" src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/main/images/222.png" width="400" height="200">
 
 I found the reading we were assigned to be helpful in being both a better writer and a better digital humanist. The reading that I most enjoyed learning about and eventually utilize was that of “Text Scanning Patterns: Eyetracking Evidence.” Most of what I have written has been on paper in an essay style format. Up until this class, I had never written anything to be online for everyone to see. Because of this, I had no idea that people’s reading habits change when something is on a screen. This article allowed me to be a better writer when on an online format as well as helped me to identify my flaws when reading something online. I feel as though this reading helped me in this class and will also help me in my future endeavors.
 

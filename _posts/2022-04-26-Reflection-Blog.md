@@ -14,7 +14,7 @@ Having looked at how my definition has changed; I feel as though I have a better
 
 ## What did I like to do
 
-<img align="left" src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/main/images/twitter.jpg" width="200" height="300">
+<img align="left" src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/main/images/twitter.jpg" width="225" height="325">
 
 One of the aspects of this class that I really enjoyed was the utilization of Twitter. I will admit that for my personal life I am not one for being on social media or posting my ideas to a public forum for that matter. However, using twitter to express my thought or ideas on what we were doing in class was kind of helpful for me. As seen in this picture on the left, I had some concerns about our final grant project. But as I came to find out I wasn’t alone in this worry. My classmates commented and shared how they were struggling in similar manners. I am someone who can be very anxious at times, but this was comforting for me to see. Utilizing Twitter for this class made me feel as though I was part of a community wanting to learn, rather than being a student working towards a grade. 
 

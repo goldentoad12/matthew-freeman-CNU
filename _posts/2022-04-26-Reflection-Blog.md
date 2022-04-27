@@ -22,7 +22,7 @@ Another aspect of Twitter that I enjoyed was the access to opposing ideas that I
 
 ## Readings
 
-<img align="right" src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/main/images/222.png" width="400" height="200">
+<img align="right" src="https://raw.githubusercontent.com/goldentoad12/matthew-freeman-CNU/main/images/eye.png" width="400" height="200">
 
 I found the reading we were assigned to be helpful in being both a better writer and a better digital humanist. The reading that I most enjoyed learning about and eventually utilize was that of “Text Scanning Patterns: Eyetracking Evidence.” Most of what I have written has been on paper in an essay style format. Up until this class, I had never written anything to be online for everyone to see. Because of this, I had no idea that people’s reading habits change when something is on a screen. This article allowed me to be a better writer when on an online format as well as helped me to identify my flaws when reading something online. I feel as though this reading helped me in this class and will also help me in my future endeavors.
 
